@@ -1,0 +1,90 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Inter', sans-serif;
+}
+
+.titulo{
+    background-color: rgb(26, 51, 51);
+    color: white;
+    margin: 0%;
+    display: flex;
+    justify-content: first baseline;
+    align-items: center;
+    padding: 10px 0;
+
+}
+
+.logo-imagem {
+    width: 8%;}
+
+.lista-item{
+      display: inline;
+      justify-content: last baseline;
+    margin-right: 10px;
+align-items: center;}
+
+.siteimagem{
+    width: 400px;
+    padding: 0 60px;
+}
+
+
+.site{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 24px;
+    font-size: 20px;
+}
+    
+
+    .site-div-conteudo{
+        width: 500px;
+        padding: 130px; }
+
+    body{font-family: 'Source Serif Pro', serif;}
+
+    .estudante-imagem{
+        width: 170px;
+    }
+
+    .estudante{
+        background-color: rgb(186, 189, 189);
+        color: black;
+    }
+
+    .estudante-div{
+        text-align: center;
+    }
+    .estudante-titulo{
+        text-align: center;
+        padding: 20px;
+    }
+    .estudante-todos{
+        display: grid;
+        grid-template-columns: 33% 33% 33% ;
+        padding: 37px;
+    }
+
+    .rodape{
+        background-color: rgb(26, 51, 51);
+        padding: 20px;
+        text-align: center;
+        justify-content: center;
+        display: block;
+    }
+    .rodape-imagem{
+        width: 4%;
+
+    }
+    .sobresite-div-pesquisa{ 
+        padding: 0 20%;
+    }
+
+ 
